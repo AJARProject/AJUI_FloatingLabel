@@ -1,0 +1,6 @@
+Logs of the work done
+
+v1.0.0 - GI - 10.10.2019 :
+- Lab : Fix the "reset" button to trigger the "on after edit" event to make the label disapear.
+
+

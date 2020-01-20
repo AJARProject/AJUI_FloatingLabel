@@ -1,0 +1,25 @@
+.default {
+	font-family: Segoe UI;
+	font-size: 12px;
+}
+
+.Field1 {
+	font-family: Segoe UI Light;
+	font-size: 30px;
+}
+
+.Field2 {
+	font-family: Segoe UI Light;
+	font-size: 13px;
+}
+
+.FloatLabeledTextField {
+	font-family: Segoe UI;
+	font-size: 10px;
+}
+
+.FloatLabeledTextField_min {
+	font-family: Segoe UI;
+	font-size: 8px;
+}
+

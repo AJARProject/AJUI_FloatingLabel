@@ -1,0 +1,16 @@
+﻿{
+	"forms": {
+		"Test_Form_3_with_Object": {
+			"timeStamp": "2020-01-20T09:42:19.904Z",
+			"destination": "detailScreen"
+		},
+		"test_Form_1": {
+			"timeStamp": "2020-01-20T09:41:10.452Z",
+			"destination": "detailScreen"
+		},
+		"test_Form_2": {
+			"timeStamp": "2020-01-20T09:41:30.209Z",
+			"destination": "detailScreen"
+		}
+	}
+}

@@ -3,19 +3,19 @@
 
 This version is included with the *source code under the MIT Licence*.
 
--   **AJUI_FloatingLabelv17** is the component (source code).
+-   **AJUI_FloatingLabel** is the component (source code).
 
--   **AJUI_FloatingLabelv17Lab** is the Host database for testing the component.
+-   **AJUI_FloatingLabelLab** is the Host database for testing the component.
 
 # Documentation
 
-AJUI_FloatingLabelv17 is a component who allows you to generate floating labels associated with your form objects. 
+AJUI_FloatingLabel is a component who allows you to generate floating labels associated with your form objects. 
 The labels will be displayed according to the object having the focus.
 
 The use of the component requires the creation of a form object (FLabel_obj). This will serve as a basis for the creation of floating labs. 
 The color of the labels can be defined and the displayed text will correspond to the placeholders associated with your fields.
 
-For more information. I advise you to try AJUI_FloatingLabelv17Lab. This is an application on purpose to test the component with 4D
+For more information. I advise you to try AJUI_FloatingLabelLab. This is an application on purpose to test the component with 4D
 
 ----------------------------------------------------
 Method : FloatingLabel_TextField

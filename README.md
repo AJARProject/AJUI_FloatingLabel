@@ -49,3 +49,11 @@ the "float info" you must activate the object events :
  - On After Edit
 
 ----------------------------------------------------
+
+### Version
+
+1.1.0-Build11  // Mon, 20 Jan 2020 09:10:56 GMT
+
+### Questions?
+
+If you have any question, you can ask them directly on github or write to info@ajar.ch

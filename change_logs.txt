@@ -8,3 +8,7 @@ Component :
  - v18
  Lab :
  - v18
+ 
+ v1.1.1 - GC - 24.01.2020 :
+ Component :
+  - Added property "showOnEmptyField"

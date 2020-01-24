@@ -52,7 +52,7 @@ the "float info" you must activate the object events :
 
 ### Version
 
-1.1.0-Build11  // Mon, 20 Jan 2020 09:10:56 GMT
+1.1.1-Build14  // Fri, 24 Jan 2020 14:55:47 GMT
 
 ### Questions?
 

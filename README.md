@@ -7,6 +7,8 @@ This version is included with the *source code under the MIT Licence*.
 
 -   **AJUI_FloatingLabelLab** is the Host database for testing the component.
 
+[Wiki FloatingLabel](https://github.com/AJARProject/AJUI_FloatingLabel/wiki)
+
 # Documentation
 
 AJUI_FloatingLabel is a component who allows you to generate floating labels associated with your form objects. 

@@ -1,3 +1,5 @@
+:warning: **AJUI_FloatingLabel has been integrated into AJUI_animate. This version will no longer be maintained**
+
 # AJUI_FloatingLabel
 
 
@@ -57,6 +59,9 @@ the "float info" you must activate the object events :
 ### Version
 
 1.1.1-Build14  // Fri, 24 Jan 2020 14:55:47 GMT
+
+Minimal 4D Version : 
+ - 18
 
 ### Questions?
 

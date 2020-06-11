@@ -1,4 +1,4 @@
-:warning: **AJUI_FloatingLabel has been integrated into AJUI_animate. This version will no longer be maintained**
+:warning: **AJUI_FloatingLabel has been integrated into AJUI_animate. This version will no longer be maintained.**
 
 # AJUI_FloatingLabel
 

@@ -9,6 +9,10 @@ This version is included with the *source code under the MIT Licence*.
 
 -   **AJUI_FloatingLabelLab** is the Host database for testing the component.
 
+### AJUI components library
+
+[AJUI_Library](https://github.com/AJARProject/AJUI_Library)
+
 # Documentation
 
 [Wiki FloatingLabel](https://github.com/AJARProject/AJUI_FloatingLabel/wiki)
